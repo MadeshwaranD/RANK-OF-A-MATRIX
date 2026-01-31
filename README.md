@@ -22,7 +22,8 @@ rank=np.linalg.matrix_rank(A)
 print(rank)
 ...
 ## Output:
-<img width="1465" height="793" alt="image" src="https://github.com/user-attachments/assets/51692f51-f7e5-4f6d-ba8f-87e65ac626c4" />
+<img width="1498" height="847" alt="image" src="https://github.com/user-attachments/assets/3eb0c183-1f43-4131-9026-81392cc364fa" />
+
 
 
 ## Result:
