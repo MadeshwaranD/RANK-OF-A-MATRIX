@@ -22,7 +22,8 @@ rank=np.linalg.matrix_rank(A)
 print(rank)
 ...
 ## Output:
-<img width="1486" height="865" alt="image" src="https://github.com/user-attachments/assets/4b8c8e1b-1d1c-4f8f-84fd-05ba2b5fb5cb" />
+<img width="1465" height="793" alt="image" src="https://github.com/user-attachments/assets/51692f51-f7e5-4f6d-ba8f-87e65ac626c4" />
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
